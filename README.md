@@ -44,9 +44,9 @@ Aspiring software engineer seeking internships (Summer/Fall 2026). I build clean
 - Clear README with install/run/test instructions
 - Small, focused commits and meaningful commit messages
 - Tests & CI (GitHub Actions) on main branches
-- Live demo or screenshots / GIFs where relevant
+<!-- - Live demo or screenshots / GIFs where relevant
 - License (MIT) and CONTRIBUTING.md for collaborative repos
-
+-->
 ---
 
 ## How I approach internships
