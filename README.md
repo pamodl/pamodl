@@ -4,7 +4,7 @@ Aspiring software engineer seeking internships (Summer/Fall 2026). I build clean
 - 🔭 Seeking: Software Engineering internship (backend / full-stack) — open to remote or relocation
 - 🌱 Learning: Rust, system design, scalable microservices
 - ⚡ Interests: APIs, performance, developer tools, mentoring juniors
-- 📫 Contact: your.email@example.com · [LinkedIn](https://) · [Resume PDF](https://)
+- 📫 Contact: pamod848@gmail.com · <!-- [LinkedIn](https://) · [Resume PDF](https://)-->
 
 ---
 
@@ -25,7 +25,7 @@ Aspiring software engineer seeking internships (Summer/Fall 2026). I build clean
 ---
 
 ## Featured Projects
-(Short, focused descriptions — include role, tech, and one impact/metric when possible)
+<!-- (Short, focused descriptions — include role, tech, and one impact/metric when possible)-->
 
 - Project Alpha — REST API & auth (Node.js, Express, PostgreSQL)  
   Role: Full-stack developer. Implemented JWT authentication, wrote 60+ tests, and deployed to Heroku with CI. Live demo and API docs included in repo.
@@ -36,7 +36,7 @@ Aspiring software engineer seeking internships (Summer/Fall 2026). I build clean
 - Project Gamma — CLI dev tool (Go)  
   Role: Solo. Implemented a cross-platform CLI that automates dev setup. Included unit tests and a GitHub Action to publish releases.
 
-(Replace these with your actual projects, links, and concise metrics)
+<!-- (Replace these with your actual projects, links, and concise metrics)-->
 
 ---
 
@@ -61,9 +61,9 @@ Aspiring software engineer seeking internships (Summer/Fall 2026). I build clean
 
 ---
 
-## Resume / Contact
+<!-- ## Resume / Contact
 - Resume: https://your-website.com/resume.pdf  
-- Email: your.email@example.com · LinkedIn: https://www.linkedin.com
+- Email: your.email@example.com · LinkedIn: https://www.linkedin.com -->
 
 ---
 
