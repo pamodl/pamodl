@@ -4,7 +4,7 @@ Aspiring software engineer seeking internships (Summer/Fall 2026). I build clean
 - 🔭 Seeking: Software Engineering internship (backend / full-stack) — open to remote or relocation
 - 🌱 Learning: Rust, system design, scalable microservices
 - ⚡ Interests: APIs, performance, developer tools, mentoring juniors
-- 📫 Contact: your.email@example.com · [LinkedIn](https://www.linkedin.com/in/your-linkedin) · [Resume PDF](https://your-website.com/resume.pdf)
+- 📫 Contact: your.email@example.com · [LinkedIn](https://) · [Resume PDF](https://)
 
 ---
 
@@ -57,14 +57,13 @@ Aspiring software engineer seeking internships (Summer/Fall 2026). I build clean
 ---
 
 ## GitHub Stats
-![pamodl's GitHub stats](https://github-readme-stats.vercel.app/api?username=pamodl&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pamodl&layout=compact&theme=radical)
+
 
 ---
 
 ## Resume / Contact
 - Resume: https://your-website.com/resume.pdf  
-- Email: your.email@example.com · LinkedIn: https://www.linkedin.com/in/your-linkedin
+- Email: your.email@example.com · LinkedIn: https://www.linkedin.com
 
 ---
 
