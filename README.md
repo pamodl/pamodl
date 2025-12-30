@@ -26,7 +26,7 @@ Aspiring software engineer seeking internships (Summer/Fall 2026). I build clean
 
 ## Featured Projects
 <!-- (Short, focused descriptions — include role, tech, and one impact/metric when possible)-->
-
+<!-- 
 - Project Alpha — REST API & auth (Node.js, Express, PostgreSQL)  
   Role: Full-stack developer. Implemented JWT authentication, wrote 60+ tests, and deployed to Heroku with CI. Live demo and API docs included in repo.
 
