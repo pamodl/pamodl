@@ -1,16 +1,15 @@
 # Hi — I’m pamod 👋
-Aspiring software engineer seeking internships (Summer/Fall 2026). I build clean, well-tested apps and love learning new systems. Currently focused on full‑stack web development, distributed systems fundamentals, and automation.
+Aspiring software engineer seeking internships. I build clean, well-tested apps and love learning new systems. Currently focused on full‑stack web development, distributed systems fundamentals, and automation.
 
 - 🔭 Seeking: Software Engineering internship (backend / full-stack) — open to remote or relocation
-- 🌱 Learning: Rust, system design, scalable microservices
-- ⚡ Interests: APIs, performance, developer tools, mentoring juniors
+- 🌱 Learning: system design, scalable microservices
+- ⚡ Interests: APIs, performance, developer tools
 - 📫 Contact: pamod848@gmail.com · <!-- [LinkedIn](https://) · [Resume PDF](https://)-->
 
 ---
 
 ## Highlights
 - 3+ projects demonstrating backend APIs, authentication, and deployment with CI/CD.
-- Contributions to open-source: bug fixes and docs improvements.
 - Strong fundamentals in data structures, algorithms, and systems design; comfortable writing tests and CI pipelines.
 
 ---
@@ -18,9 +17,9 @@ Aspiring software engineer seeking internships (Summer/Fall 2026). I build clean
 ## Key Skills
 - Languages: JavaScript / TypeScript, Python, Go (replace to match yours)
 - Web: Node.js, Express, React, Next.js
-- Databases: PostgreSQL, Redis, MongoDB
-- Cloud & Infra: Docker, GitHub Actions, basic AWS (EC2, S3)
-- Tools: Git, REST/GraphQL, Jest/pytest, Postman
+- Databases: PostgreSQL, Redis, MongoDB, MySQL
+- Cloud & Infra: Docker, GitHub Actions, basic AWS
+- Tools: Git, REST/GraphQL, Jest/pytest, Postman, BitBucket
 
 ---
 
