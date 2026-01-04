@@ -1,75 +1,55 @@
 # Hi — I’m pamod 👋
-Aspiring software engineer seeking internships. I build clean, well-tested apps and love learning new systems. Currently focused on full‑stack web development, distributed systems fundamentals, and automation.
 
-- 🔭 Seeking: Software Engineering internship (backend / full-stack) — open to remote or relocation
-- 🌱 Learning: system design, scalable microservices
-- ⚡ Interests: APIs, performance, developer tools
-- 📫 Contact: pamod848@gmail.com · <!-- [LinkedIn](https://) · [Resume PDF](https://)-->
+I’m an aspiring software engineer focused on backend and full‑stack development. I build clean, well-tested applications, enjoy learning systems and distributed design, and I'm currently looking for software engineering internships (backend / full-stack). I’m open to remote roles or relocation.
+
+- 🔭 Seeking: Software Engineering internship (backend / full-stack)
+- 🌱 Learning: system design, scalable microservices, observability
+- ⚡ Interests: APIs, performance, developer tools, distributed systems
+- 📫 Contact: pamod848@gmail.com
 
 ---
 
 ## Highlights
-- 3+ projects demonstrating backend APIs, authentication, and deployment with CI/CD.
+
+- Several projects demonstrating backend APIs, middleware, and deployment with CI/CD.
 - Strong fundamentals in data structures, algorithms, and systems design; comfortable writing tests and CI pipelines.
 
 ---
 
-## Key Skills
-- Languages: JavaScript / TypeScript, Python, Go (replace to match yours)
-- Web: Node.js, Express, React, Next.js
-- Databases: PostgreSQL, Redis, MongoDB, MySQL
-- Cloud & Infra: Docker, GitHub Actions, basic AWS
-- Tools: Git, REST/GraphQL, Jest/pytest, Postman, BitBucket
+## Core Skills
+
+- Languages: Java, JavaScript/TypeScript, Shell
+- Web & Backend: Spring Boot, Node.js, Express, REST, WebSockets
+- Databases & Cache: PostgreSQL, Redis, MongoDB
+- DevOps & Infra: Docker, GitHub Actions, basic AWS
+- Tools & Testing: Git, Postman, Jest, JUnit
 
 ---
 
-## Featured Projects
-<!-- (Short, focused descriptions — include role, tech, and one impact/metric when possible)-->
-<!-- 
-- Project Alpha — REST API & auth (Node.js, Express, PostgreSQL)  
-  Role: Full-stack developer. Implemented JWT authentication, wrote 60+ tests, and deployed to Heroku with CI. Live demo and API docs included in repo.
+## Featured repositories
 
-- Project Beta — Realtime dashboard (React, WebSocket, Redis)  
-  Role: Frontend & backend. Built realtime metrics UI, optimized Redis pub/sub throughput by 30%, and added end-to-end tests.
+- [sri-tel](https://github.com/pamodl/sri-tel) — Java-heavy project (backend services, APIs, and deployment). Languages: Java, JavaScript, CSS.
+- [PUB-SUB](https://github.com/pamodl/PUB-SUB) — Pub/sub middleware using Java (broker, message routing and persistence).
+- [GMS](https://github.com/pamodl/GMS) — JavaScript project (frontend / tooling).
+- [pamodl](https://github.com/pamodl/pamodl) — This repository (profile and examples).
 
-- Project Gamma — CLI dev tool (Go)  
-  Role: Solo. Implemented a cross-platform CLI that automates dev setup. Included unit tests and a GitHub Action to publish releases.
-
-<!-- (Replace these with your actual projects, links, and concise metrics)-->
+(See each repo for setup, run instructions, and design notes.)
 
 ---
 
-## What to look for in my repos
-- Clear README with install/run/test instructions
-- Small, focused commits and meaningful commit messages
-- Tests & CI (GitHub Actions) on main branches
-<!-- - Live demo or screenshots / GIFs where relevant
-- License (MIT) and CONTRIBUTING.md for collaborative repos
--->
----
+## How I work
 
-## How I approach internships
-- Learn quickly, ask clarifying questions, and deliver incremental value.
-- Prefer pair-programming and writing automated tests before shipping.
-- Focus on readable, well-documented code and maintainable architectures.
+- Emphasize readable, well-tested code and incremental delivery.
+- Prefer designing small, maintainable services and shipping automated tests and CI.
+- I like pairing and collaborating to move complex features forward.
 
 ---
 
-## GitHub Stats
+## Want to help or hire me?
 
-
----
-
-<!-- ## Resume / Contact
-- Resume: https://your-website.com/resume.pdf  
-- Email: your.email@example.com · LinkedIn: https://www.linkedin.com -->
+- Star or fork projects you find useful, and open issues or PRs for feedback.
+- If you're hiring for internships, email me at pamod848@gmail.com — include a short description of the role and timeline.
 
 ---
 
-## How you can help
-- Star/fork/comment on projects you like — feedback helps!
-- If you’re hiring for internships, feel free to message me here or on LinkedIn.
-
----
-
-Thanks for visiting — feel free to check the pinned repos and open an issue if you'd like to collaborate.
+Thanks for visiting — check the pinned repos and feel free to reach out!
