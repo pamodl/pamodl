@@ -18,11 +18,12 @@ I’m an aspiring software engineer focused on backend and full‑stack developm
 
 ## Core Skills
 
-- Languages: Java, JavaScript/TypeScript, Shell
-- Web & Backend: Spring Boot, Node.js, Express, REST, WebSockets
-- Databases & Cache: PostgreSQL, Redis, MongoDB
-- DevOps & Infra: Docker, GitHub Actions, basic AWS
-- Tools & Testing: Git, Postman, Jest, JUnit
+- Languages: Java, JavaScript, Shell, Python, C, C++
+- Web & Backend: Spring Boot, Node.js, Express, REST, WebSockets, Microservices
+- Frontend: React.js, Redux, Material-UI, Tailwind CSS, HTML5, CSS3
+- Databases: PostgreSQL, MySQL, MongoDB
+- DevOps & Infra: Docker, GitHub Actions
+- Tools & Testing: Git, BitBucket, Postman, Insomnia, Jupyter, Figma
 
 ---
 
